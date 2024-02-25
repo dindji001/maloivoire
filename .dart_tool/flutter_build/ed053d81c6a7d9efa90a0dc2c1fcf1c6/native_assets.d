@@ -1,0 +1,1 @@
+ /Users/severindindji/Documents/malo_ivoire_app_precommander/.dart_tool/flutter_build/ed053d81c6a7d9efa90a0dc2c1fcf1c6/native_assets.yaml: 
